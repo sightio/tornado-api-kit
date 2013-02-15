@@ -18,7 +18,7 @@ setup(
     version = "0.0.1",
     author = "Alexander Tereshkin",
     author_email = "atereshkin@y-node.com",
-    description = ("A collection of routines for building web APIs on top of Tornado web server. ",),
+    description = "A collection of routines for building web APIs on top of Tornado web server. ",
     license = "BSD",
     keywords = "tornado api",
     url = "https://github.com/sightio/tornado-api-kit",
